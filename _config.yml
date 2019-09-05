@@ -1,0 +1,65 @@
+title: Eva García-Martín
+description: Personal Website
+author: Eva García-Martín
+github: https://github.com/egarciamartin
+about: PhD candidate in Machine Learning @ Blekinge Institute of Technology.
+location:
+  name:
+  link_name: Göteborg, Sweden
+  link: https://goo.gl/maps/ca9DpwPgx342
+contact: eva.garcia.martin[at]bth.se
+avatar_url: /static/img/Eva_2.png
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: ai ai-google-scholar ai-1.7x
+      link: "https://scholar.google.se/citations?user=9LJwmLkAAAAJ&hl=en"
+    - icon: fab fa-twitter
+      link: "https://twitter.com/evitamonal"
+    - icon: fab fa-linkedin
+      link: "https://www.linkedin.com/in/evagarciamartin"
+    - icon: fab fa-github
+      link: "https://github.com/egarciamartin"
+
+share:
+  twitter_username: evitamonal
+
+urls:
+    - text: Publications
+      url: /publications
+    - text: CV
+      url: /cv
+      # url: /CV/cv.pdf
+    - text: Interesting links
+      url: /links
+
+url: "https://egarciamartin.github.io"
+baseurl: ""
+# paginate: 20
+# per_page: 20
+# paginate_path: "/page/:num/"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+  - commonmarker
+  - gemoji
+
+
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+kramdown:
+    auto_ids: true
