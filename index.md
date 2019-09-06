@@ -14,8 +14,8 @@ Currently, I'm  working on my licentiate thesis where the focus is on modeling a
 
 ### Publications included in thesis
 
-* Nordahl, C., Grahn, H., & Persson-Netz, M. "Detection of residents’ abnormal behaviour by analysing energy consumption of individual households". In \textit{2017 IEEE International Conference on Data Mining Workshops (ICDMW)}, 1st International Workshop on Aging, Rehabilitation, and Ambient Assisted Living (ARIAL), 2017, New Orleans, Florida, USA, pp. 729-738. DOI: [10.1109/ICDMW.2017.101](https://doi.org/10.1109/ICDMW.2017.101)
-* 
+* Nordahl, C., Grahn, H., & Persson-Netz, M. "Detection of residents’ abnormal behaviour by analysing energy consumption of individual households". In 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 1st International Workshop on Aging, Rehabilitation, and Ambient Assisted Living (ARIAL), 2017, New Orleans, Florida, USA, pp. 729-738. DOI: [10.1109/ICDMW.2017.101](https://doi.org/10.1109/ICDMW.2017.101)
+* Nordahl, C., Boeva, V., Grahn, H., & Persson-Netz, M. "Profiling of Household Residents’ Electricity Consumption Behavior Using Clustering Analysis". International Conference on Computational Science, 2019, pp. 779-786, Springer. DOI: [10.1007/978-3-030-22750-0_78](https://doi.org/10.1007/978-3-030-22750-0_78)
 * 
 * 
 
