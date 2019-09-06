@@ -9,9 +9,14 @@ permalink: /publications
 
 
 
-### Included in licentiate thesis
+### Conference
+
 ----
 
-### Other Research
+### Workshop
+
+---
+
+### Other research
 ----
 
