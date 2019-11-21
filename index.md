@@ -12,6 +12,8 @@ I'm a Ph.D. Student in Machine Learning, working at [Blekinge Institute of Techn
 
 Currently, I'm  working on my licentiate thesis where the focus is on modeling and analyzing user behaviors. Specifically, we have focused on user behaviors of electricity consumption.
 
+Link to the current version of the licentiate thesis is found [here](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-18667)
+
 ### Publications included in thesis
 
 * Nordahl, C., Grahn, H., and Persson-Netz, M. "Detection of residents’ abnormal behaviour by analysing energy consumption of individual households". In 2017 IEEE International Conference on Data Mining Workshops (ICDMW), 1st International Workshop on AI for Aging, Rehabilitation and Independent Assisted Living (ARIAL), 2017, New Orleans, Florida, USA, pp. 729-738. DOI: [10.1109/ICDMW.2017.101](https://doi.org/10.1109/ICDMW.2017.101)
