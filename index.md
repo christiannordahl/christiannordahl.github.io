@@ -23,6 +23,7 @@ Link to the current version of the licentiate thesis is found [here](http://urn.
 * Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "EvolveCluster: an evolutionary clustering algorithm for streaming data", Evolving Systems 13, 603–623 (2022). DOI: [s12530-021-09408-y](https://doi.org/10.1007/s12530-021-09408-y)
 * Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "" Submitted journal manuscript.
 * Nordahl, C., Boeva, V., and Grahn, H., "MultiStream EvolveCluster". Submitted conference manuscript.
+
 ---
 
 <br>
