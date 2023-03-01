@@ -11,7 +11,7 @@ I'm a Ph.D. Student in Machine Learning, working at [Blekinge Institute of Techn
 
 
 Currently, I'm  working on finalizing my doctoral thesis regarding modeling and analyzing user behaviors using clustering analysis, specifically the clustering of evolving data streams.
-My ticentiate thesis can be found [here](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-18667).
+My licentiate thesis can be found [here](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-18667).
 
 ### Publications included in thesis
 
