@@ -32,5 +32,6 @@ permalink: /publications
 * Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "On Evaluation of Data Stream Clustering Algorithms: A Survey". *Submitted journal manuscript*
 
 * Nordahl, C., Boeva, V., and Grahn, H., "MultiStream EvolveCluster". *Submitted conference manuscript*
+
 ----
 
