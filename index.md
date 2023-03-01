@@ -21,8 +21,8 @@ Link to the current version of the licentiate thesis is found [here](http://urn.
 * Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "Monitoring Household Electricity Consumption Behaviour for Mining Changes", In 3rd International Workshop on Aging, Rehabilitation and Independent Assisted Living (ARIAL), International Joint Conferenec on Artificial Intelligence (IJCAI), 2019, Macau. [PDF](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1350711)
 * Boeva, V. and Nordahl, C., "Modeling Evolving User Behavior via Sequential Clustering", In 2nd International Workshop on Knowledge Discovery and User Modelling for Smart Cities (UMCit), The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2019, Würzburg, Germany. DOI: [978-3-030-43887-6_2](https://doi.org/10.1007/978-3-030-43887-6_2)
 * Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "EvolveCluster: an evolutionary clustering algorithm for streaming data", Evolving Systems 13, 603–623 (2022). DOI: [s12530-021-09408-y](https://doi.org/10.1007/s12530-021-09408-y)
-* Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "" Submitted journal manuscript.
-* Nordahl, C., Boeva, V., and Grahn, H., "MultiStream EvolveCluster". Submitted conference manuscript.
+* Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., " On Evaluation of Data Stream Clustering Algorithms: A Survey". *Submitted journal manuscript*
+* Nordahl, C., Boeva, V., and Grahn, H., "MultiStream EvolveCluster". *Submitted conference manuscript*
 
 ---
 
