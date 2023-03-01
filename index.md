@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 ---
-<!-- <h1>{{ site.title }}</h1> -->
+<h1>{{ site.title }}</h1>
 <br><br>
 
 ---
