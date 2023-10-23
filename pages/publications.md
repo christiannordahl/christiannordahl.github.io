@@ -9,11 +9,11 @@ permalink: /publications
 
 ### Journal
 
-* Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "EvolveCluster: an evolutionary clustering algorithm for streaming data", Evolving Systems 13, 603–623 (2022). [PDF](https://www.diva-portal.org/smash/get/diva2:1614644/FULLTEXT01.pdf) DOI: [s12530-021-09408-y](https://doi.org/10.1007/s12530-021-09408-y). In the [top 10 list](https://www.springer.com/journal/12530/updates/25272070) of most downloaded articles from the Evolving Systems journal in 2022.
+* Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M., "EvolveCluster: an evolutionary clustering algorithm for streaming data", Evolving Systems 13, 603–623 (2022). [PDF](https://www.diva-portal.org/smash/get/diva2:1614644/FULLTEXT01.pdf) DOI: [s12530-021-09408-y](https://doi.org/10.1007/s12530-021-09408-y). **In the [top 10 list](https://www.springer.com/journal/12530/updates/25272070) of most downloaded articles from the Evolving Systems journal in 2022.**
 
 ### Conference
 
-* Nordahl, C., Boeva, V., and Grahn, H., "MultiStream EvolveCluster", In Proceedings of the Canadian Conference on Artificial Intelligence, 2023, Montreal, Canada. [PDF](https://caiac.pubpub.org/pub/7vy6zs49#n0983y60e5x) DOI: [594757db.b22e0e9a](https://doi.org/10.21428/594757db.b22e0e9a). Voted top 3 paper in the conference.
+* Nordahl, C., Boeva, V., and Grahn, H., "MultiStream EvolveCluster", In Proceedings of the Canadian Conference on Artificial Intelligence, 2023, Montreal, Canada. [PDF](https://caiac.pubpub.org/pub/7vy6zs49#n0983y60e5x) DOI: [594757db.b22e0e9a](https://doi.org/10.21428/594757db.b22e0e9a). **Voted top 3 paper in the conference.**
 
 * Nordahl, C., Boeva, V., Grahn, H., and Persson-Netz, M. "Profiling of Household Residents’ Electricity Consumption Behavior Using Clustering Analysis". International Conference on Computational Science, 2019, pp. 779-786, Springer. DOI: [10.1007/978-3-030-22750-0_78](https://doi.org/10.1007/978-3-030-22750-0_78)
 
