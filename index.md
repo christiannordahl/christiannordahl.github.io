@@ -15,7 +15,7 @@ permalink: /
 I'm a Ph.D. Student at [Blekinge Institute of Technology](https://www.bth.se) formerly under the project *Scalable resource-efficient systems for big data analytics*. My advisors are [Håkan Grahn](https://www.bth.se/eng/staff/hakan-grahn-hgr/), [Marie Netz](), and [Veselka Boeva](https://www.bth.se/staff/veselka-boeva-vbx/).
 
 
-You find the current draft of the PhD Thesis [here](https://christiannordahl.github.io/files/phd_thesis_20231024.pdf).
+You find the current draft of the PhD Thesis [here](https://christiannordahl.github.io/files/phd_thesis_20231130.pdf).
 
 ### Publications included in thesis
 
